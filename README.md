@@ -10,7 +10,7 @@
 <p>4.Save and run.</p>
 <h2>简体中文(Chinese)</h2>
 <p>这个项目可以自动修改您的域名记录。</p>
-<p>目前仅支持Cloudflare。</p>
+<p>目前仅支持<a href="https://cloudflare.com">Cloudflare</a>。</p>
 <p>1.打开"main.py"。</p>
 <p>2.修改以下变量：</p>
 <p><img width="381" height="121" alt="image" src="https://github.com/user-attachments/assets/9f904a31-d795-40bc-8cd8-faf337b8b2d5" /></p>
